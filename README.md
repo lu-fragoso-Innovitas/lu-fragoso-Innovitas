@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:064e3b,50:047857,100:10b981&height=220&section=header&text=Lucas%20Fragoso&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%40%20Innovitas&descAlignY=62&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:047857,100:10b981&height=200&section=header&text=Lucas%20Fragoso&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%40%20Innovitas&descAlignY=60&descSize=18" />
 
 <a href="https://github.com/lu-fragoso-Innovitas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=34D399&center=true&vCenter=true&width=650&lines=SaaS+de+sa%C3%BAde+multi-tenant;NestJS+%2B+Drizzle+%2B+PostgreSQL;React+%2B+TanStack+Query+%2B+Tailwind;Integra%C3%A7%C3%B5es+com+Google%2C+Outlook+e+Apple+Calendar" alt="Typing SVG" />
@@ -36,9 +36,30 @@ const lucas = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,redis,react,vite,tailwind,aws,firebase,docker,git&theme=dark" alt="Stack" />
+**Backend & Data**
 
-<sub>e também: Drizzle ORM · TanStack Query · Radix UI · Socket.io · Bull</sub>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_%2F_Bull-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Front-end**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
+
+**Infra & Tooling**
+
+![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nd2hpdGUnIGQ9J00xOC41IDE5SDYuNWE0LjUgNC41IDAgMCAxLS45LTguOTFBNi41IDYuNSAwIDAgMSAxOC4yIDlhNSA1IDAgMCAxIC4zIDEweicvPjwvc3ZnPg%3D%3D)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -92,6 +113,6 @@ No **NutriCloud**, plataforma SaaS multi-tenant para nutricionistas e clínicas:
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:10b981,50:047857,100:064e3b&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:047857,100:064e3b&height=120&section=footer" />
 
 </div>
