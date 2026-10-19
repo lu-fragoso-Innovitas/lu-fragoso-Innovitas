@@ -22,11 +22,16 @@
 
 ```ts
 const lucas = {
-  role: "Full-Stack Developer @ Innovitas",
-  focus: ["SaaS multi-tenant", "APIs REST e tempo real", "integrações com serviços externos"],
-  currentlyBuilding: "NutriCloud — plataforma SaaS de gestão nutricional e clínica",
-  alsoCaresAbout: ["segurança e LGPD", "internacionalização"],
-  learningAlways: true,
+	role: "Full-Stack Developer @ Innovitas",
+	focus: [
+		"SaaS multi-tenant",
+		"APIs REST e tempo real",
+		"Integrações com serviços externos",
+	],
+	currentlyBuilding:
+		"NutriCloud — plataforma SaaS de gestão nutricional e clínica",
+	alsoCaresAbout: ["Segurança e LGPD", "Internacionalização"],
+	learningAlways: true,
 };
 ```
 
@@ -121,10 +126,10 @@ antropometria, planos alimentares, diário alimentar, teleconsulta e portal do p
 
 ### 🤝 Vamos conversar
 
-<a href="mailto:lucas.fragoso@innovitas.com.br">
+<a href="mailto:lucasgarciafragoso@hotmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+<a href="https://www.linkedin.com/in/lucas-fragoso-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
