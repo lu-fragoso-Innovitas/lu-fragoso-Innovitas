@@ -110,6 +110,9 @@ No **NutriCloud**, plataforma SaaS multi-tenant para nutricionistas e clínicas:
 <a href="https://www.linkedin.com/in/lucas-fragoso-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nd2hpdGUnIGQ9J000IDloMy41djExSDR6TTUuNzUgMy41YTIgMiAwIDEgMSAwIDQgMiAyIDAgMCAxIDAtNHpNOS41IDloMy40djEuNmguMDVjLjUtLjkgMS42LTEuOSAzLjQtMS45IDMuNiAwIDQuMiAyLjMgNC4yIDUuNFYyMGgtMy41di01LjJjMC0xLjMgMC0yLjktMS44LTIuOXMtMi4xIDEuNC0yLjEgMi44VjIwSDkuNXonLz48L3N2Zz4%3D" />
 </a>
+<a href="https://github.com/lu-fragoso">
+  <img src="https://img.shields.io/badge/GitHub_Pessoal-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br/><br/>
 
